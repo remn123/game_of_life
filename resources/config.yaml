@@ -1,0 +1,11 @@
+---
+game:
+  background_color: darkgray
+  border_color: lightgray
+  live_color: yellow
+  fps: 60
+  resolution:
+    - 1600
+    - 900
+  scale: 20
+  timestep: 300 # 1s
