@@ -15,8 +15,8 @@ The seetings are defined in a YAML file at 'resources/config.yaml' with the para
 - ENTER: Start Conway's Game of Life algorithm (you will see a green circle at the upper-right corner)
 - next ENTER: Pause Conway's Game of Life algorithm (you will see a red square at the upper-right corner)
 - SPACE: Stop the game
-- LEFT MOUSE CLICK: select a cell to be alive
-- RIGHT MOUSE CLICK: select a cell to be dead (all cells start as dead)
+- MOUSE LEFT CLICK BUTTON: select a cell to be alive
+- MOUSE RIGHT CLICK BUTTON: select a cell to be dead (all cells start as dead)
 
 # Next Steps
 
