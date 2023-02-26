@@ -9,3 +9,5 @@ game:
     - 900
   scale: 20
   timestep: 300 # 1s
+  theme: resources/theme_3.json
+  image: resources/assets/images/John_H_Conway_2005.jpg
